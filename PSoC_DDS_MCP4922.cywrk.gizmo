@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source">
+<ExpandedNodeIds>
+<v>PSoC_DDS_MCP4922</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\TopDesign</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\PSoC_DDS_MCP4922.cydwr</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Header Files</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Source Files</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Source Files\main.c</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Source Files\wavetable.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\cm0gcc.ld</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\Cm0Iar.icf</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\Cm0RealView.scat</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\Cm0Start.c</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\core_cm0.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\core_cm0_psoc4.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\core_cmFunc.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\core_cmInstr.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\CyBootAsmGnu.s</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\CyBootAsmIar.s</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\CyBootAsmRv.s</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\CyFlash.c</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\CyFlash.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\CyLib.c</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\CyLib.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\cypins.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\cyPm.c</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\cyPm.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\cytypes.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\cyutils.c</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\LDAC_PIN</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\LDAC_PIN\LDAC_PIN.c</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\LDAC_PIN\LDAC_PIN.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\LDAC_PIN\LDAC_PIN_aliases.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\Sampling_Clock</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\Sampling_Clock\Sampling_Clock.c</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\Sampling_Clock\Sampling_Clock.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\Sampling_Timer</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\Sampling_Timer\Sampling_Timer.c</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\Sampling_Timer\Sampling_Timer.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\Sampling_Timer\Sampling_Timer_PM.c</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM\SPIM.c</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM\SPIM.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM\SPIM_BOOT.c</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM\SPIM_BOOT.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM\SPIM_PINS.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM\SPIM_PM.c</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM\SPIM_PVT.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM\SPIM_SPI.c</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM\SPIM_SPI_BOOT.c</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM\SPIM_SPI_UART.c</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM\SPIM_SPI_UART.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM\SPIM_SPI_UART_PVT.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM_miso_m</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM_miso_m\SPIM_miso_m.c</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM_miso_m\SPIM_miso_m.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM_miso_m\SPIM_miso_m_aliases.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM_mosi_m</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM_mosi_m\SPIM_mosi_m.c</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM_mosi_m\SPIM_mosi_m.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM_mosi_m\SPIM_mosi_m_aliases.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM_SCBCLK</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM_SCBCLK\SPIM_SCBCLK.c</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM_SCBCLK\SPIM_SCBCLK.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM_sclk_m</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM_sclk_m\SPIM_sclk_m.c</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM_sclk_m\SPIM_sclk_m.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM_sclk_m\SPIM_sclk_m_aliases.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM_ss0_m</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM_ss0_m\SPIM_ss0_m.c</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM_ss0_m\SPIM_ss0_m.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM_ss0_m\SPIM_ss0_m_aliases.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\Timer_ISR</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\Timer_ISR\Timer_ISR.c</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\Timer_ISR\Timer_ISR.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cydevice_trm.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cydevicegnu_trm.inc</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cydeviceiar_trm.inc</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cydevicerv_trm.inc</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cydisabledsheets.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cyfitter.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cyfitter_cfg.c</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cyfitter_cfg.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cyfittergnu.inc</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cyfitteriar.inc</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cyfitterrv.inc</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cymetadata.c</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\project.h</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>PSoC_DDS_MCP4922</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\TopDesign</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\PSoC_DDS_MCP4922.cydwr</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Header Files</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Source Files</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Source Files\main.c</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Source Files\wavetable.h</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>PSoC_DDS_MCP4922</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\TopDesign</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>PSoC_DDS_MCP4922</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\TopDesign</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\PSoC_DDS_MCP4922_timing.html">
+<ExpandedNodeIds>
+<v>PSoC_DDS_MCP4922</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug\Listing Files</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug\Listing Files\Cm0Start.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug\Listing Files\CyFlash.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug\Listing Files\CyLib.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug\Listing Files\cymetadata.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug\Listing Files\cyPm.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug\Listing Files\cyutils.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug\Listing Files\LDAC_PIN.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug\Listing Files\main.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug\Listing Files\Sampling_Clock.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug\Listing Files\Sampling_Timer.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug\Listing Files\Sampling_Timer_PM.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug\Listing Files\SPIM.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug\Listing Files\SPIM_BOOT.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug\Listing Files\SPIM_miso_m.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug\Listing Files\SPIM_mosi_m.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug\Listing Files\SPIM_PM.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug\Listing Files\SPIM_SCBCLK.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug\Listing Files\SPIM_sclk_m.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug\Listing Files\SPIM_SPI.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug\Listing Files\SPIM_SPI_BOOT.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug\Listing Files\SPIM_SPI_UART.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug\Listing Files\SPIM_ss0_m.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug\Listing Files\Timer_ISR.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug\PSoC_DDS_MCP4922.elf</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug\PSoC_DDS_MCP4922.hex</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_484\Debug\PSoC_DDS_MCP4922.map</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\PSoC_DDS_MCP4922.rpt</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\PSoC_DDS_MCP4922_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>PSoC_DDS_MCP4922</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\PSoC_DDS_MCP4922.rpt</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\PSoC_DDS_MCP4922_timing.html</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>PSoC_DDS_MCP4922</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\PSoC 4 Architecture TRM</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\PSoC 4200 Family Datasheet</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\System Reference Guide v4_20</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\cy_clock_v2_20</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\cy_isr_v1_70</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\cy_pins_v2_10</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\SCB_P4_v2_0</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\TCPWM_P4_v2_0</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>PSoC_DDS_MCP4922</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\PSoC 4 Architecture TRM</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\PSoC 4200 Family Datasheet</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\System Reference Guide v4_20</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\cy_clock_v2_20</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\cy_isr_v1_70</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\cy_pins_v2_10</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\SCB_P4_v2_0</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\TCPWM_P4_v2_0</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\PSoC_DDS_MCP4922.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\PSoC_DDS_MCP4922.cydsn\PSoC_DDS_MCP4922.cydwr" />
+<name v=".\PSoC_DDS_MCP4922.cydsn\main.c" />
+<name v=".\PSoC_DDS_MCP4922.cydsn\wavetable.h" />
+<name v=".\PSoC_DDS_MCP4922.cydsn\Generated_Source\PSoC4\project.h" />
+<name v=".\PSoC_DDS_MCP4922.cydsn\Generated_Source\PSoC4\cm0gcc.ld" />
+</OpenDocs>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
