@@ -7,6 +7,7 @@
  * CONFIDENTIAL AND PROPRIETARY INFORMATION
  * WHICH IS THE PROPERTY OF your company.
  *
+ * 2015.10.03 MCP4922に12bitデータを送信
  * ========================================
 */
 #include <project.h>
@@ -21,15 +22,16 @@ volatile uint32 tuningWord;
 void DACSetVoltage(uint16 value)
 {
 	LDAC_PIN_Write(1u);
-	SPIM_SpiUartWriteTxData((value >> 8) | 0x30);
+	SPIM_SpiUartWriteTxData((value >> 8) | 0x30); // Highバイト(0x30=OUTA/BUFなし/1x/シャットダウンなし)
 	SPIM_SpiUartWriteTxData(value & 0xff);
-	LDAC_PIN_Write(0u);
-		
+			
 	while(0u == (SPIM_GetMasterInterruptSource() & SPIM_INTR_MASTER_SPI_DONE))
 	{
 		/* Wait while Master completes transfer */
 	}
 	
+    LDAC_PIN_Write(0u);
+    
 	/* Clear interrupt source after transfer completion */
 	SPIM_ClearMasterInterruptSource(SPIM_INTR_MASTER_SPI_DONE);
 }
