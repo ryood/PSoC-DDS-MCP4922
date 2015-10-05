@@ -17,7 +17,8 @@
 #include "wavetable.h"
 
 #define SAMPLE_CLOCK (48000.0f)
-#define BPM (120.0f)
+#define WAVE_FREQENCY (100.0f)
+#define BPM (6600.0f)
 
 // ERROR CODE
 #define ERR_DAC_CHANNEL_OUT_OF_RANGE 0x01
@@ -74,7 +75,8 @@ CY_ISR(ISR_Sampling_Timer_Handler)
 int main()
 {    
     // 変数の初期化
-	double waveFrequency = (BPM * 4 / 60.0f);
+	//double waveFrequency = (BPM * 4 / 60.0f);
+    double waveFrequency = WAVE_FREQENCY;
 	tuningWord = waveFrequency * pow(2.0, 32) / SAMPLE_CLOCK;
     phaseRegister = 0;
        

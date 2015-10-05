@@ -220,6 +220,40 @@
 <VisibleNodeIds>
 <v>PSoC_DDS_MCP4922</v>
 <v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\Listing Files</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\Listing Files\Clock_Sampling.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\Listing Files\Cm0Start.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\Listing Files\CyFlash.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\Listing Files\CyLib.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\Listing Files\cymetadata.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\Listing Files\cyPm.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\Listing Files\cyutils.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\Listing Files\ISR_Sampling_Timer.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\Listing Files\main.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\Listing Files\Pin_LDAC.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\Listing Files\Pin_Sampling_Clock.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\Listing Files\SPIM_DAC.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\Listing Files\SPIM_DAC_BOOT.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\Listing Files\SPIM_DAC_miso_m.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\Listing Files\SPIM_DAC_mosi_m.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\Listing Files\SPIM_DAC_PM.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\Listing Files\SPIM_DAC_SCBCLK.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\Listing Files\SPIM_DAC_sclk_m.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\Listing Files\SPIM_DAC_SPI.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\Listing Files\SPIM_DAC_SPI_BOOT.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\Listing Files\SPIM_DAC_SPI_UART.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\Listing Files\SPIM_DAC_ss0_m.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\Listing Files\TC_Sampling_Timer.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\Listing Files\TC_Sampling_Timer_PM.lst</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\PSoC_DDS_MCP4922.elf</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\PSoC_DDS_MCP4922.hex</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\CortexM0\ARM_GCC_493\Debug\PSoC_DDS_MCP4922.map</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\PSoC_DDS_MCP4922.gpdsc</v>
 <v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\PSoC_DDS_MCP4922.rpt</v>
 <v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\PSoC_DDS_MCP4922_timing.html</v>
 </VisibleNodeIds>
