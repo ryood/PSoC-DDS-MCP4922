@@ -7,7 +7,7 @@
  * CONFIDENTIAL AND PROPRIETARY INFORMATION
  * WHICH IS THE PROPERTY OF your company.
  *
- * 2015.10.06 2ch DACに対応
+ * 2015.10.06 2ch DACに対応(2ch同時出力は不可）
  * 2015.10.06 TC_Sampling_TimerのOVをPINに出力
  * 2015.10.03 MCP4922に12bitデータを送信
  * ========================================
@@ -66,15 +66,15 @@ CY_ISR(ISR_Sampling_Timer_Handler)
     uint16 waveValue = waveTableSine[index];
 	
 	DACSetVoltage(waveValue, 0);
+    //DACSetVoltage(waveValue, 1);
     
     TC_Sampling_Timer_ClearInterrupt(TC_Sampling_Timer_INTR_MASK_TC);
 }
 
 int main()
-{
-    
+{    
     // 変数の初期化
-	double waveFrequency = (BPM / 60.0f);
+	double waveFrequency = (BPM * 4 / 60.0f);
 	tuningWord = waveFrequency * pow(2.0, 32) / SAMPLE_CLOCK;
     phaseRegister = 0;
        
