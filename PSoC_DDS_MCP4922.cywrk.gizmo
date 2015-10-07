@@ -13,7 +13,7 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\TopDesign">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\PSoC_DDS_MCP4922.cydwr">
 <ExpandedNodeIds>
 <v>PSoC_DDS_MCP4922</v>
 <v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922</v>
@@ -260,7 +260,12 @@
 </userData>
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
 <Unloaded />
-<OpenDocs />
+<OpenDocs>
+<name v=".\PSoC_DDS_MCP4922.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\PSoC_DDS_MCP4922.cydsn\main.c" />
+<name v=".\PSoC_DDS_MCP4922.cydsn\wavetable.h" />
+<name v=".\PSoC_DDS_MCP4922.cydsn\PSoC_DDS_MCP4922.cydwr" />
+</OpenDocs>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
