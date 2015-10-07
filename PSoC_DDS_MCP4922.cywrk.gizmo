@@ -13,16 +13,16 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="PSoC_DDS_MCP4922\PSoC_DDS_MCP4922">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\TopDesign">
 <ExpandedNodeIds>
 <v>PSoC_DDS_MCP4922</v>
 <v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922</v>
 <v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\TopDesign</v>
 <v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\PSoC_DDS_MCP4922.cydwr</v>
 <v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Header Files</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Source Files</v>
 <v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Source Files\main.c</v>
 <v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Source Files\wavetable.h</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source</v>
 <v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4</v>
 <v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\Clock_Sampling</v>
 <v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\Clock_Sampling\Clock_Sampling.c</v>
@@ -118,48 +118,9 @@
 <v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\PSoC_DDS_MCP4922.cydwr</v>
 <v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Header Files</v>
 <v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Source Files</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Source Files\main.c</v>
+<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Source Files\wavetable.h</v>
 <v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\Clock_Sampling</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\Clock_Sampling\Clock_Sampling.c</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\Clock_Sampling\Clock_Sampling.h</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\cm0gcc.ld</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\Cm0Iar.icf</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\Cm0RealView.scat</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\Cm0Start.c</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\core_cm0.h</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\core_cm0_psoc4.h</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\core_cmFunc.h</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\core_cmInstr.h</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\CyBootAsmGnu.s</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\CyBootAsmIar.s</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\CyBootAsmRv.s</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\CyFlash.c</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\CyFlash.h</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\CyLib.c</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\CyLib.h</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\cypins.h</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\cyPm.c</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\cyPm.h</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\cytypes.h</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\cy_boot\cyutils.c</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\ISR_Sampling_Timer</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\ISR_Sampling_Timer\ISR_Sampling_Timer.c</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\ISR_Sampling_Timer\ISR_Sampling_Timer.h</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\Pin_LDAC</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\Pin_LDAC\Pin_LDAC.c</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\Pin_LDAC\Pin_LDAC.h</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\Pin_LDAC\Pin_LDAC_aliases.h</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\Pin_Sampling_Clock</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\Pin_Sampling_Clock\Pin_Sampling_Clock.c</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\Pin_Sampling_Clock\Pin_Sampling_Clock.h</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\Pin_Sampling_Clock\Pin_Sampling_Clock_aliases.h</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM_DAC</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM_DAC\SPIM_DAC.c</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM_DAC\SPIM_DAC.h</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM_DAC\SPIM_DAC_BOOT.c</v>
-<v>PSoC_DDS_MCP4922\PSoC_DDS_MCP4922\Generated_Source\PSoC4\SPIM_DAC\SPIM_DAC_BOOT.h</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -299,14 +260,7 @@
 </userData>
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
 <Unloaded />
-<OpenDocs>
-<name v=".\PSoC_DDS_MCP4922.cydsn\TopDesign\TopDesign.cysch" />
-<name v=".\PSoC_DDS_MCP4922.cydsn\PSoC_DDS_MCP4922.cydwr" />
-<name v=".\PSoC_DDS_MCP4922.cydsn\main.c" />
-<name v=".\PSoC_DDS_MCP4922.cydsn\wavetable.h" />
-<name v=".\PSoC_DDS_MCP4922.cydsn\Generated_Source\PSoC4\project.h" />
-<name v=".\PSoC_DDS_MCP4922.cydsn\Generated_Source\PSoC4\cm0gcc.ld" />
-</OpenDocs>
+<OpenDocs />
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>

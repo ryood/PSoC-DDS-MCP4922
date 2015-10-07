@@ -17,8 +17,7 @@
 #include "wavetable.h"
 
 #define SAMPLE_CLOCK (48000.0f)
-#define WAVE_FREQENCY (100.0f)
-#define BPM (6600.0f)
+#define WAVE_FREQUENCY (1.0f)
 
 // ERROR CODE
 #define ERR_DAC_CHANNEL_OUT_OF_RANGE 0x01
@@ -28,22 +27,23 @@ volatile uint32 tuningWord;
 
 void DACSetVoltage(uint16 value, int channel)
 {
-	Pin_LDAC_Write(1u);
+    uint16 txData;
     switch (channel) {
     case 0:
         // Highバイト(0x30=OUTA/BUFなし/1x/シャットダウンなし)
-	    SPIM_DAC_SpiUartWriteTxData((value >> 8) | 0x30);
+        txData = (value & ~0xF000) | 0x3000;
         break;
     case 1:
-        // Highバイト(0x30=OUTB/BUFなし/1x/シャットダウンなし)
-        SPIM_DAC_SpiUartWriteTxData((value >> 8) | 0xB0);
+        // Highバイト(0xB0=OUTB/BUFなし/1x/シャットダウンなし)
+        txData = (value & ~0xF000) | 0xB000;
         break;
     default:
         ;
         // error(ERR_DAC_CHANNEL_OUT_OF_RANGE);
     }
-        
-	SPIM_DAC_SpiUartWriteTxData(value & 0xff);
+    
+	Pin_LDAC_Write(1u);
+    SPIM_DAC_SpiUartWriteTxData(txData);
 			
 	while(0u == (SPIM_DAC_GetMasterInterruptSource() & SPIM_DAC_INTR_MASTER_SPI_DONE))
 	{
@@ -67,7 +67,7 @@ CY_ISR(ISR_Sampling_Timer_Handler)
     uint16 waveValue = waveTableSine[index];
 	
 	DACSetVoltage(waveValue, 0);
-    //DACSetVoltage(waveValue, 1);
+    DACSetVoltage(waveValue, 1);
     
     TC_Sampling_Timer_ClearInterrupt(TC_Sampling_Timer_INTR_MASK_TC);
 }
@@ -76,7 +76,7 @@ int main()
 {    
     // 変数の初期化
 	//double waveFrequency = (BPM * 4 / 60.0f);
-    double waveFrequency = WAVE_FREQENCY;
+    double waveFrequency = WAVE_FREQUENCY;
 	tuningWord = waveFrequency * pow(2.0, 32) / SAMPLE_CLOCK;
     phaseRegister = 0;
        
